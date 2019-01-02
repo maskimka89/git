@@ -10,6 +10,6 @@
     <h1>Super Title</h1>
     <h1>Title</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, alias amet? Ab quos molestias nesciunt accusamus ipsum quas harum temporibus fugit molestiae! Illo nam exercitationem voluptatem delectus, adipisci error ipsa.</p>
-
+    <p>New data</p>
 </body>
 </html>
