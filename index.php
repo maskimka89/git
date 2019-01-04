@@ -12,6 +12,10 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum, alias amet? Ab quos molestias nesciunt accusamus ipsum quas harum temporibus fugit molestiae! Illo nam exercitationem voluptatem delectus, adipisci error ipsa.</p>
     <p>New data</p>
     <p>testing branch</p>
+<<<<<<< HEAD
     <h2>Local edit</h2>
+=======
+    <h2>first edit</h2>
+>>>>>>> 42f7835828c074b76e596f60e07af7bb53d60bf3
 </body>
 </html>
